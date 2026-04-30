@@ -1,17 +1,19 @@
-# calender
+# Kala Calendar - Aplikasi Kalender Elegan
 
-A new Flutter project.
+Aplikasi ini dibuat untuk memenuhi tugas UAS pengembangan aplikasi mobile berbasis Flutter.
 
-## Getting Started
+## Fitur Utama
+* **Tampilan Elegan:** Menggunakan desain minimalis dengan tema warna Indigo.
+* **Interaksi Tanggal:** Pengguna dapat memilih tanggal tertentu pada kalender.
+* **Navigasi Waktu:** Mendukung perpindahan bulan dan tahun secara dinamis.
 
-This project is a starting point for a Flutter application.
+## Teknologi yang Digunakan
+* Framework: Flutter
+* Library: table_calendar
+* Version Control: Git
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan Aplikasi
+1. Lakukan `git clone` repository ini.
+2. Jalankan perintah `flutter pub get` di terminal.
+3. Hubungkan perangkat (HP/Emulator).
+4. Jalankan `flutter run`.
